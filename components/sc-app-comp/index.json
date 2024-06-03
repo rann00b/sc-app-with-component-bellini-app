@@ -1,0 +1,26 @@
+{
+  "type": "custom-component",
+  "name": "sc-app-comp",
+  "children": [],
+  "variables": [
+    {
+      "name": "prop",
+      "type": "property",
+      "description": "",
+      "value": "'text'"
+    }
+  ],
+  "bindings": [
+    {
+      "name": "text",
+      "type": "<",
+      "description": "",
+      "propertyType": "text",
+      "default": "",
+      "autocomplete": []
+    }
+  ],
+  "modules": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}

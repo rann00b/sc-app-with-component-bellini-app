@@ -1,0 +1,36 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "sc-app-comp",
+      "nodeName": "sc-app-comp",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "NCseGQ"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "id": "665d2d30bd11f5774328137b",
+      "expressions": []
+    }
+  ]
+}
